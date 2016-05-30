@@ -1,1 +1,1 @@
-hello，我是西邮的学生。
+hello，world！
