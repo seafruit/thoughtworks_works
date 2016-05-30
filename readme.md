@@ -1,1 +1,1 @@
-hello£¬world£¡
+hello,world!Strive to create a better youth.
